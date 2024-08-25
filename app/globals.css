@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+  background-color: #7b7ebb;
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent);
+  background-size: 40px 40px;
+}
+
+
+/* html, body {
+  height: 100%;
+  background-image: url('https://images.pexels.com/photos/1166209/pexels-photo-1166209.jpeg'); /* Path to your water texture image */
+  /* background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center; 
+} */ 
